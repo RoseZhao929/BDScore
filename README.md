@@ -39,3 +39,6 @@ python calc_bdscore.py
 
 ### 2. Using IDD Prompts
 The idd_prompts.py contains all prompts used for debiasing across four dimensions.
+
+## DOI
+10.5281/zenodo.15099779
